@@ -5,4 +5,4 @@
 
 :- [load].
 
-:- node(localhost:3060).
+:- node('localhost':3060).
